@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
