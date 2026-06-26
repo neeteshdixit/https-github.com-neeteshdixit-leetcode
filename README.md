@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
