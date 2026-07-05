@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
 | [0735-asteroid-collision](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
