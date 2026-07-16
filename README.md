@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
 | [0735-asteroid-collision](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0735-asteroid-collision) |
 ## Stack
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
