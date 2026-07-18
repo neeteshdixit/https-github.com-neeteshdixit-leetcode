@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0238-product-of-array-except-self](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
