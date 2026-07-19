@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
