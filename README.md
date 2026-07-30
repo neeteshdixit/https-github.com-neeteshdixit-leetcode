@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0342-power-of-four) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1920-build-array-from-permutation) |
