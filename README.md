@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
+| [0977-squares-of-a-sorted-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1672-richest-customer-wealth) |
