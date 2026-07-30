@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0735-asteroid-collision) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1480-running-sum-of-1d-array) |
