@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/neeteshdixit/https-github.com-neeteshdixit-leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
